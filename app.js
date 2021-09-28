@@ -1,0 +1,1 @@
+console.log('The Pentateuch tells us the history of the world!');
